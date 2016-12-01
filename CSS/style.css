@@ -8,6 +8,10 @@ body{
 	background-attachment: fixed;
 }
 
+h2{
+	color: #740a11;
+}
+
 .wrap{
   background-color: white;
 margin-top: 20px;
