@@ -36,6 +36,7 @@ $("#datos").submit(function(event){
         console.log(response);
         console.log(textStatus);
         console.log(jqXHR);
+        alert("Gracias por realizar tu preregistro. Para finalizar tu proceso de inscripción necesitas realizar tu pago.");
     });
 
     // Callback handler that will be called on failure
